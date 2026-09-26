@@ -1,4 +1,4 @@
-# 🦉 Sova AI
+# Sova AI
 
 ### A full-stack AI conversational platform built with React, Node.js, Express, MongoDB, Redis, and OpenRouter.
 
